@@ -33,3 +33,6 @@ A saída deverá estar no formato JSON seguinte:
 ## Executar solução no linux terminal:
     pip install requests
     python dependency_check.py 
+
+## Saída 
+    Será criado um arquivo "dependency_check.json" na raiz do projeto.
